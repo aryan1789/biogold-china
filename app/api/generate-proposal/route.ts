@@ -288,7 +288,7 @@ export async function POST(request: NextRequest) {
     const html = buildPDFHTML(company, proposalText, packagingImage, isZh)
     const pdfBuffer = await htmlToPdf(html)
 
-    return new NextResponse(pdfBuffer, {
+    return new NextResponse(new Uint8Array(pdfBuffer), {
       headers: {
         'Content-Type': 'application/pdf',
         'Content-Disposition': `attachment; filename="Bio-Gold-Proposal-${company.replace(/\s+/g, '-')}.pdf"`,

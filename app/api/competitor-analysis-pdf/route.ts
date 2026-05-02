@@ -239,7 +239,7 @@ export async function GET(request: NextRequest) {
         printBackground: true,
       })
 
-      return new NextResponse(Buffer.from(pdf), {
+      return new NextResponse(new Uint8Array(pdf), {
         headers: {
           'Content-Type': 'application/pdf',
           'Content-Disposition': 'attachment; filename="Bio-Gold-China-Competitive-Analysis.pdf"',
