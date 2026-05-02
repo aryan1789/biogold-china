@@ -127,9 +127,9 @@ export default async function ResearchPage({ params }: { params: Promise<{ local
           <Link href={`/${locale}/b2b`} className="inline-block bg-[#D9A91B] text-[#2F2E2D] font-bold text-sm uppercase tracking-wider px-10 py-4 rounded-full hover:bg-[#F0C84A] transition-colors duration-200">
             {d.research.bottom_cta} →
           </Link>
-          <div className="mt-8 space-y-1">
-            <p className="text-xs text-[#5A5856]/80">{d.home.compliance.label1}</p>
-            <p className="text-xs text-[#5A5856]/80">{d.home.compliance.label2}</p>
+          <div className="mt-8 pt-6 border-t border-[#E4D8C3] space-y-1">
+            <p className="text-xs text-[#5A5856] font-medium">{d.home.compliance.label1}</p>
+            <p className="text-xs text-[#5A5856] font-medium">{d.home.compliance.label2}</p>
           </div>
         </div>
       </section>

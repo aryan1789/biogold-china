@@ -192,9 +192,9 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <Link href={`/${locale}/b2b`} className="inline-block bg-[#2F2E2D] text-white font-bold text-sm uppercase tracking-wider px-10 py-5 rounded-full hover:bg-[#1A1918] transition-colors duration-200">
               {d.home.b2b_section.cta} →
             </Link>
-            <div className="mt-8 space-y-1">
-              <p className="text-xs text-[#2F2E2D]/75">{d.home.compliance.label1}</p>
-              <p className="text-xs text-[#2F2E2D]/75">{d.home.compliance.label2}</p>
+            <div className="mt-8 pt-6 border-t border-[#2F2E2D]/20 space-y-1">
+              <p className="text-xs text-[#2F2E2D] font-medium">{d.home.compliance.label1}</p>
+              <p className="text-xs text-[#2F2E2D] font-medium">{d.home.compliance.label2}</p>
             </div>
           </div>
         </div>

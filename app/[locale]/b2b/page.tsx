@@ -28,9 +28,9 @@ export default async function B2BPage({ params }: { params: Promise<{ locale: st
         <div className="grid md:grid-cols-5 gap-12">
           <div className="md:col-span-3">
             <B2BGenerator dict={dict.b2b} locale={locale} />
-            <div className="mt-5 space-y-1">
-              <p className="text-xs text-[#5A5856]/80">{d.home.compliance.label1}</p>
-              <p className="text-xs text-[#5A5856]/80">{d.home.compliance.label2}</p>
+            <div className="mt-5 pt-5 border-t border-[#E4D8C3] space-y-1">
+              <p className="text-xs text-[#5A5856] font-medium">{d.home.compliance.label1}</p>
+              <p className="text-xs text-[#5A5856] font-medium">{d.home.compliance.label2}</p>
             </div>
           </div>
           <div className="md:col-span-2">
