@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import Anthropic from '@anthropic-ai/sdk'
 import { existsSync } from 'fs'
+import { execSync } from 'child_process'
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY })
 const GEMINI_KEY = process.env.GEMINI_API_KEY
@@ -34,18 +35,30 @@ REGULATORY:
 `
 
 function findBrowser(): string {
+  // Try explicit env var first
+  if (process.env.PUPPETEER_EXECUTABLE_PATH) {
+    return process.env.PUPPETEER_EXECUTABLE_PATH
+  }
+
+  // Try to find via which (works on any Linux including Nix)
+  for (const name of ['chromium', 'chromium-browser', 'google-chrome', 'google-chrome-stable']) {
+    try {
+      const found = execSync(`which ${name} 2>/dev/null`, { encoding: 'utf8' }).trim()
+      if (found) return found
+    } catch { /* not in PATH */ }
+  }
+
+  // Fallback to known static paths
   const candidates = [
-    process.env.PUPPETEER_EXECUTABLE_PATH,
-    'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
-    'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe',
-    'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-    'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
-    '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
-    '/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge',
+    '/run/current-system/sw/bin/chromium',
+    '/usr/bin/google-chrome-stable',
     '/usr/bin/google-chrome',
     '/usr/bin/chromium-browser',
     '/usr/bin/chromium',
-  ].filter(Boolean) as string[]
+    'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
+    'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe',
+    '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+  ]
 
   for (const p of candidates) {
     try { if (existsSync(p)) return p } catch { /* skip */ }
@@ -58,7 +71,7 @@ async function htmlToPdf(html: string): Promise<Buffer> {
   const browser = await puppeteer.default.launch({
     executablePath: findBrowser(),
     headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage'],
+    args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--no-zygote', '--single-process'],
   })
   try {
     const page = await browser.newPage()
