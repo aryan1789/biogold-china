@@ -236,7 +236,7 @@ export async function GET(request: NextRequest) {
     const browser = await puppeteer.default.launch({
       executablePath: findBrowser(),
       headless: true,
-      args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--no-zygote', '--single-process'],
+      args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu'],
     })
 
     try {
