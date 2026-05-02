@@ -1,0 +1,89 @@
+{
+  "slug": "pine-pollen-face-mask",
+  "image": "/images/products/pine-pollen-face-mask.jpg",
+  "category": "Skincare",
+  "en": {
+    "name": "Pine Pollen Face Mask",
+    "tagline": "The forest, concentrated. For your skin.",
+    "hero": {
+      "headline": "Bioactive Pine Pollen for Your Skin",
+      "subheadline": "New Zealand pine pollen contains phytoandrogens and antioxidants that work at a cellular level. This is skincare backed by forest science."
+    },
+    "benefits": [
+      {
+        "title": "Cellular Vitality",
+        "description": "Phytoandrogens in pine pollen support natural collagen production and skin cell renewal."
+      },
+      {
+        "title": "Antioxidant Defence",
+        "description": "Rich in flavonoids and carotenoids that neutralise free radicals and reduce oxidative stress on skin."
+      },
+      {
+        "title": "Deep Hydration",
+        "description": "Polysaccharides in pine pollen bind moisture to the skin barrier, maintaining suppleness through the day."
+      },
+      {
+        "title": "Brightening Effect",
+        "description": "Natural enzymes in pine pollen support an even, luminous skin tone over consistent use."
+      }
+    ],
+    "mechanism": "Pine pollen contains over 200 bioactive compounds including amino acids, vitamins, minerals, and phytoandrogens. Applied topically, these compounds penetrate the upper layers of the skin and interact with receptor sites to support natural cellular processes. Unlike synthetic actives, pine pollen works with the skin's existing biology rather than overriding it.",
+    "ingredientStory": "Every gram of Bio Gold pine pollen is harvested from two pristine South Island New Zealand locations. The pollen is collected once per year during a narrow harvest window, then processed using a cell-wall cracking technique that releases the bioactive compounds for full absorption. No additives. No fillers. Just pine pollen in its most potent form.",
+    "usage": [
+      "Apply a generous layer to clean, dry skin.",
+      "Leave on for 15-20 minutes.",
+      "Rinse thoroughly with warm water.",
+      "Use 2-3 times per week for best results."
+    ],
+    "credibility": [
+      { "stat": "200+", "label": "Bioactive compounds in pine pollen" },
+      { "stat": "4 yrs", "label": "Government-funded R&D" },
+      { "stat": "NZ", "label": "Sourced from New Zealand forests" },
+      { "stat": "Otago", "label": "University of Otago research validation" }
+    ],
+    "claims": [
+      "Supports natural skin vitality",
+      "Rich in antioxidants",
+      "Deep hydration formula"
+    ]
+  },
+  "zh": {
+    "name": "松花粉面膜",
+    "tagline": "森林的精华，敷在脸上。",
+    "hero": {
+      "headline": "松花粉面膜：来自新西兰原始森林的护肤精华",
+      "subheadline": "新西兰松花粉含有植物雄激素和抗氧化成分，直接作用于皮肤细胞。这款面膜有真正的科研支持。"
+    },
+    "benefits": [
+      { "title": "支持细胞活力", "description": "松花粉中的植物雄激素有助于促进天然胶原合成和皮肤细胞更新。" },
+      { "title": "抗氧化保护", "description": "富含黄酮类和类胡萝卜素，帮助中和自由基，减少皮肤氧化损伤。" },
+      { "title": "深层补水", "description": "松花粉多糖能将水分锁在皮肤屏障中，保持全天柔润。" },
+      { "title": "提亮肤色", "description": "松花粉中的天然酶类成分有助于改善肤色均匀度，让肌肤看起来更有光泽。" }
+    ],
+    "mechanism": "松花粉含有超过 200 种生物活性成分，包括氨基酸、维生素、矿物质和植物雄激素。涂抹于皮肤后，这些成分能渗透皮肤上层，与细胞受体结合，支持皮肤的天然修复过程。不是靠化学刺激，是配合皮肤本身的运作方式。",
+    "ingredientStory": "每克 Bio Gold 松花粉都采自新西兰南岛两处原始产地。花粉每年只在特定时段采收一次，经过破壁处理后才能完全释放内部的生物活性成分。没有添加剂，没有填充物，就是最纯粹的松花粉。",
+    "usage": [
+      "在洁净干燥的皮肤上均匀涂抹面膜。",
+      "敷膜 15 至 20 分钟。",
+      "用温水彻底冲洗干净。",
+      "每周使用 2 至 3 次，效果更佳。"
+    ],
+    "credibility": [
+      { "stat": "200+", "label": "松花粉中的生物活性成分种类" },
+      { "stat": "4年", "label": "政府资助研发" },
+      { "stat": "新西兰", "label": "南岛原始森林产地" },
+      { "stat": "奥塔哥", "label": "奥塔哥大学科研验证" }
+    ],
+    "claims": ["支持皮肤天然活力", "富含天然抗氧化成分", "深层补水配方"]
+  },
+  "regulatory": {
+    "en": {
+      "chinaStatus": "Pine pollen is recognised as a traditional food ingredient in China. Topical cosmetic formulations require NMPA (National Medical Products Administration) cosmetic registration.",
+      "nmpaPath": "1. File as general cosmetic (ordinary cosmetic) under NMPA. 2. Conduct safety assessment per GB 7916 standard. 3. Submit product formula, raw material safety data, and efficacy claims for review. 4. Registration timeline: approximately 3-6 months for ordinary cosmetics. No therapeutic claims permitted."
+    },
+    "zh": {
+      "chinaStatus": "松花粉在中国被认定为传统食品原料。外用化妆品配方须向国家药品监督管理局（NMPA）进行化妆品注册备案。",
+      "nmpaPath": "1. 按国家药监局规定以普通化妆品形式进行备案。2. 依据GB 7916标准开展安全性评估。3. 提交产品配方、原料安全数据及功效声明资料供审查。4. 普通化妆品备案周期约3至6个月。不得附带任何治疗性声明。"
+    }
+  }
+}

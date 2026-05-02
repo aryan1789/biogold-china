@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "products": "产品",
+    "research": "市场研究",
+    "b2b": "合作咨询",
+    "generate": "产品页面生成",
+    "tagline": "新西兰松花粉",
+    "distributor_cta": "成为经销商"
+  },
+  "home": {
+    "hero": {
+      "badge": "来自新西兰南岛原始森林",
+      "headline": "舌下含服两分钟。直达血液。",
+      "subheadline": "来自新西兰南岛两处森林产地的松花粉酊剂。奥塔哥大学研究验证生物活性。25,000 多名新西兰男性的信赖之选。",
+      "cta_primary": "查看产品",
+      "cta_secondary": "成为经销商",
+      "trust": [
+        { "value": "25,000+", "label": "新西兰客户" },
+        { "value": "40%", "label": "奥塔哥大学体外研究活性数据*" },
+        { "value": "4年", "label": "政府资助研发" }
+      ]
+    },
+    "provenance": {
+      "headline": "来自新西兰男性信赖的森林。",
+      "body": "Bio Gold 松花粉采自新西兰南岛两处原始产地。每年仅在特定窗口期采收一次。我们用水醇萃取法保留松花粉中超过 200 种生物活性成分。舌下含服绕过肠胃，让这些成分真正到达它该去的地方。",
+      "stats": [
+        { "value": "40%", "label": "奥塔哥大学体外实验室研究中观测到的生物活性数据" },
+        { "value": "4年", "label": "政府资助研发（AGMARDT、Callaghan、MPI）" },
+        { "value": "25,000+", "label": "新西兰客户数量" },
+        { "value": "2分钟", "label": "舌下含服时间，直接吸收，不经肠胃" }
+      ]
+    },
+    "mechanism": {
+      "label": "作用原理",
+      "headline": "大多数营养补充剂，根本到不了你的细胞。",
+      "subheadline": "经肠胃吸收会损失绝大部分生物活性成分。Bio Gold 采用舌下含服。舌下含服两分钟，完全绕开肠胃，直接进入血液。",
+      "footnote": "*基于奥塔哥大学针对松花粉生物活性的体外实验室研究，结果来自细胞培养实验，非临床疗效声明。",
+      "steps": [
+        {
+          "step": "01",
+          "title": "每年采收一次",
+          "body": "松花粉在新西兰南岛两处原始产地，在每年特定的采收窗口期采集。一年一次，不将就。"
+        },
+        {
+          "step": "02",
+          "title": "水醇萃取",
+          "body": "水醇萃取工艺同时提取松花粉中的水溶性和脂溶性生物活性成分，保留超过 200 种活性化合物。"
+        },
+        {
+          "step": "03",
+          "title": "舌下含服吸收",
+          "body": "舌下含服两分钟，通过舌下黏膜直接进入血液。完全绕开肠胃，生物利用率最大化。"
+        }
+      ]
+    },
+    "products_section": {
+      "headline": "Bio Gold 产品系列",
+      "subheadline": "三款产品。同一产地。来自新西兰最纯净森林的生物活性精华。"
+    },
+    "provenance_section": {
+      "label": "新西兰原产地",
+      "headline": "一片森林。一次采收。一个品牌。",
+      "body": "Bio Gold 的松花粉来自新西兰南岛两处原始产地。产地干净，过程可溯源，每年只在特定窗口期采收一次。这不是大宗商品，是精准天然植物原料。",
+      "stats": [
+        { "label": "采收产地", "value": "南岛两处原始产地" },
+        { "label": "采收窗口", "value": "每年一次" },
+        { "label": "萃取方式", "value": "水醇萃取" }
+      ]
+    },
+    "market_section": {
+      "label": "中国市场机遇",
+      "stats": [
+        { "value": "8000亿+", "label": "2030年全球营养补充剂市场规模（美元）" },
+        { "value": "首选", "label": "中国消费者最信任的进口补充剂来源之一" },
+        { "value": "0", "label": "目前进入中国市场的优质新西兰松花粉品牌" }
+      ]
+    },
+    "research_section": {
+      "headline": "中国市场机遇",
+      "body": "我们对中国松花粉市场做了系统研究，找到了 Bio Gold 能够占据的具体位置。",
+      "cta": "查看市场分析"
+    },
+    "b2b_section": {
+      "headline": "在中国分销 Bio Gold",
+      "body": "我们正在寻找志同道合的合作伙伴。输入你的公司信息，90 秒内获得专属合作方案。",
+      "cta": "获取合作方案"
+    },
+    "compliance": {
+      "label1": "请仔细阅读标签并按照使用说明使用。",
+      "label2": "若症状持续，请咨询医疗专业人员。"
+    }
+  },
+  "product": {
+    "benefits_heading": "产品功效",
+    "mechanism_heading": "作用原理",
+    "ingredient_heading": "原料故事",
+    "usage_heading": "使用方法",
+    "credibility_heading": "科研支持",
+    "regulatory_heading": "进入中国市场",
+    "cta": "咨询合作",
+    "bottom_cta_sub": "90 秒内获得专属经销商合作方案，包含起订量、利润结构和法规路径。",
+    "compliance": {
+      "label1": "请仔细阅读标签并按照使用说明使用。",
+      "label2": "若症状持续，请咨询医疗专业人员。"
+    }
+  },
+  "b2b": {
+    "headline": "获取专属经销商方案",
+    "subheadline": "告诉我们你的公司情况。我们会生成一份专为您定制的合作方案，涵盖产品介绍、利润结构、法规路径和合作条款。",
+    "form": {
+      "company_label": "公司名称或网址",
+      "company_placeholder": "例如：健康优选公司 或 www.healthplus.cn",
+      "submit": "生成我的方案",
+      "loading": "正在生成方案，请稍候……",
+      "success": "您的方案已生成。",
+      "download": "下载 PDF"
+    },
+    "what_you_get": {
+      "heading": "方案包含内容",
+      "items": [
+        "针对您市场的产品系列介绍",
+        "最小起订量与利润结构",
+        "以您品牌视觉风格生成的包装效果图",
+        "进入中国市场的法规路径",
+        "合作条款与后续步骤"
+      ]
+    }
+  },
+  "research": {
+    "headline": "中国松花粉市场分析",
+    "subheadline": "一份关于中国松花粉市场现状、市场空白，以及 Bio Gold 可以占据哪些位置的研究报告。",
+    "market_label": "中国市场机遇",
+    "market_stats": [
+      { "value": "8000亿+", "label": "2030年全球营养补充剂市场规模（美元）" },
+      { "value": "首选", "label": "中国消费者最信任进口新西兰健康产品" },
+      { "value": "0", "label": "目前在中国市场的优质新西兰松花粉品牌" },
+      { "value": "CBEC", "label": "跨境电商快速进入。无需蓝帽注册。" }
+    ],
+    "gaps_label": "Bio Gold 的竞争优势",
+    "gaps_sub": "中国松花粉市场存在五个结构性空白。每一个都是 Bio Gold 可以明确占据的位置。",
+    "gaps": [
+      {
+        "number": "01",
+        "title": "科研验证",
+        "body": "目前没有中国松花粉品牌引用独立同行评审研究。Bio Gold 拥有奥塔哥大学体外研究验证——这是该品类中独一无二的独立科研背书，国内品牌无法复制。",
+        "advantage": "Bio Gold 优势：无可争议"
+      },
+      {
+        "number": "02",
+        "title": "吸收方式",
+        "body": "中国同类竞品多采用胶囊形态，依赖肠胃吸收，生物利用率没有优势。Bio Gold 的舌下含服液体，2 分钟直接进入血液，完全绕开肠胃。",
+        "advantage": "Bio Gold 优势：产品结构性领先"
+      },
+      {
+        "number": "03",
+        "title": "新西兰原产地",
+        "body": "中国消费者普遍更信任进口营养补充剂。新西兰的清洁、科研可信度为品牌加分。目前没有其他新西兰松花粉品牌进入中国市场。",
+        "advantage": "Bio Gold 优势：先行者优势"
+      },
+      {
+        "number": "04",
+        "title": "品牌视觉识别",
+        "body": "该品类目前没有高品质的视觉形象，包装设计普遍偏功能性。Bio Gold 的设计语言，金色、炭灰色、Outfit Bold 字体，在消费者决策时点立刻脱颖而出。",
+        "advantage": "Bio Gold 优势：设计差异化"
+      },
+      {
+        "number": "05",
+        "title": "生物利用率故事",
+        "body": "目前没有竞争者明确谈及生物利用率。Bio Gold 的水醇萃取加舌下含服，是一个完整、有据可查的科学故事。中国消费者日趋成熟，有能力接受这样的内容。",
+        "advantage": "Bio Gold 优势：教育市场机会"
+      }
+    ],
+    "angles_label": "Bio Gold 的定位方向",
+    "angles": [
+      {
+        "angle": "「森林早已知晓的秘密。」",
+        "body": "融合传统与现代。松花粉在中医中有超过两千年的使用历史。Bio Gold 是经过新西兰科研验证的版本。这个故事对同时信任传统与科研的中国消费者很有共鸣。"
+      },
+      {
+        "angle": "「无需等待肠道消化的松花粉。」",
+        "body": "以作用机制为核心。舌下含服的生物利用率优势是真实、具体、可验证的。没有中国竞争品牌能在不改变产品形态的情况下提出同样的主张。"
+      },
+      {
+        "angle": "「一次采收。一处产地。一个品牌。」",
+        "body": "稀缺性与溯源性。每年仅一个采收窗口，南岛两处产地。与大宗商品完全相反。把 Bio Gold 定位为精准天然植物原料，而非普通补充剂。"
+      },
+      {
+        "angle": "「中医两千年的智慧，新西兰的土地与科研。」",
+        "body": "让敬意流向正确的方向。松花粉在中医中有两千年历史。Bio Gold 不是在重新定义它，而是在新西兰南岛干净的土地上，生产出这一中国早已信赖的传统成分中品质最高、科研支持最充分的版本。"
+      }
+    ],
+    "distribution_label": "建议的分销路径",
+    "distribution_sub": "Bio Gold 可以通过跨境电商（CBEC）立即进入中国市场。初期阶段无需国家药监局注册。",
+    "distribution": [
+      {
+        "platform": "天猫国际",
+        "type": "主要 DTC 渠道",
+        "note": "中国健康营养补充剂消费者信任度最高的平台。通过 CBEC 无需蓝帽注册。"
+      },
+      {
+        "platform": "京东全球购",
+        "type": "次要渠道",
+        "note": "对高品质、科研型产品定位有利。用户群体偏科技导向。"
+      },
+      {
+        "platform": "小红书",
+        "type": "品牌认知",
+        "note": "健康、美容、养生类内容的核心平台，适合自然种草和 KOL 合作。"
+      },
+      {
+        "platform": "抖音",
+        "type": "大众触达",
+        "note": "内容驱动。舌下含服的作用机制演示，非常适合短视频形式呈现。"
+      }
+    ],
+    "bottom_cta_headline": "准备好进入中国市场了吗？",
+    "bottom_cta_body": "90 秒内生成专属经销商合作方案，包含起订量、利润结构和法规路径。",
+    "bottom_cta": "获取经销商合作方案"
+  },
+  "generate": {
+    "headline": "产品页面生成器",
+    "subheadline": "输入产品名称和两三个核心功效，Bio Gold 的系统将在几秒内生成完整的中英文产品页面。",
+    "form": {
+      "name_label": "产品名称",
+      "name_placeholder": "例如：松花粉眼霜",
+      "claims_label": "核心功效（每行一条，最多 3 条）",
+      "claims_placeholder": "例如：淡化细纹\n紧致提拉\n深层保湿",
+      "submit": "生成产品页面",
+      "loading": "生成中……"
+    }
+  },
+  "regulatory": {
+    "china_status_label": "中国市场现状",
+    "nmpa_label": "国家药监局合规路径",
+    "snapshot_heading": "市场准入"
+  },
+  "b2b_label": "经销商合作",
+  "generate_label": "产品生成器",
+  "footer": {
+    "entity": "Pine Pollen New Zealand Limited",
+    "tagline": "从新西兰森林，到世界各地。",
+    "compliance1": "请仔细阅读标签并按照使用说明使用。",
+    "compliance2": "若症状持续，请咨询医疗专业人员。",
+    "products_heading": "产品",
+    "company_heading": "公司",
+    "products": [
+      { "slug": "pine-pollen-face-mask", "label": "松花粉面膜" },
+      { "slug": "pine-pollen-tablets", "label": "松花粉片剂" },
+      { "slug": "body-cream", "label": "松花粉身体乳" }
+    ]
+  }
+}

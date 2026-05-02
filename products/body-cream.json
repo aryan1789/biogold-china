@@ -1,0 +1,89 @@
+{
+  "slug": "body-cream",
+  "image": "/images/products/body-cream.jpg",
+  "category": "Skincare",
+  "en": {
+    "name": "Pine Pollen Body Cream",
+    "tagline": "Whole body wellness. From the forest.",
+    "hero": {
+      "headline": "Forest Bioactives. Head to Toe.",
+      "subheadline": "Bio Gold Body Cream combines the bioactive power of New Zealand pine pollen with a rich emollient base. Nourishment, vitality, and the provenance of New Zealand's South Island forests."
+    },
+    "benefits": [
+      {
+        "title": "Skin Barrier Support",
+        "description": "Emollient-rich formula reinforces the skin barrier, locking in moisture and reducing transepidermal water loss."
+      },
+      {
+        "title": "Bioactive Nourishment",
+        "description": "Over 200 bioactive compounds from pine pollen work alongside the cream's base to support skin health from outside in."
+      },
+      {
+        "title": "Whole Body Vitality",
+        "description": "Consistent use supports overall skin texture, tone, and feel across large surface areas."
+      },
+      {
+        "title": "Clean Formulation",
+        "description": "No artificial fragrances, no parabens. The natural scent of pine pollen. Nothing that doesn't belong."
+      }
+    ],
+    "mechanism": "Pine pollen compounds are lipophilic, meaning they have an affinity for fats and oils. This makes them well-suited to cream and emulsion formulations where they can be carried into the upper layers of the skin alongside the emollient base. The cream format also allows for larger surface area application compared to a face mask, supporting whole-body skin health as part of a daily routine.",
+    "ingredientStory": "Bio Gold pine pollen is harvested once a year from two South Island New Zealand locations. The raw pollen undergoes cell-wall cracking to release the bioactive compounds, then is incorporated into a cream base formulated to maximise dermal absorption. Every batch is tested for bioactivity before release. The forests of New Zealand produce some of the cleanest, most potent pine pollen in the world.",
+    "usage": [
+      "Apply liberally to clean skin after shower or bath.",
+      "Massage in with circular motions until absorbed.",
+      "Use daily for best results.",
+      "Suitable for all skin types."
+    ],
+    "credibility": [
+      { "stat": "200+", "label": "Bioactive compounds per application" },
+      { "stat": "NZ", "label": "South Island forest sourced" },
+      { "stat": "0", "label": "Artificial fragrances or parabens" },
+      { "stat": "Otago", "label": "University-validated bioactivity" }
+    ],
+    "claims": [
+      "Supports skin barrier health",
+      "Rich in natural bioactives",
+      "Whole body daily nourishment"
+    ]
+  },
+  "zh": {
+    "name": "松花粉身体乳",
+    "tagline": "全身滋养，来自森林。",
+    "hero": {
+      "headline": "森林生物活性成分，从头到脚。",
+      "subheadline": "Bio Gold 身体乳将新西兰松花粉的生物活性成分与丰润乳霜基底融合。滋养、活力，来自新西兰南岛原始森林。"
+    },
+    "benefits": [
+      { "title": "修护皮肤屏障", "description": "富含润肤成分的配方有助于加固皮肤屏障，锁住水分，减少经皮水分流失。" },
+      { "title": "生物活性滋养", "description": "松花粉中超过 200 种生物活性成分与乳霜基底协同作用，从外到内支持皮肤健康。" },
+      { "title": "全身活力感", "description": "坚持使用有助于改善大面积皮肤的质感、均匀度和整体状态。" },
+      { "title": "纯净配方", "description": "无人工香精，无防腐剂。只有松花粉本身的天然气息，没有不该有的成分。" }
+    ],
+    "mechanism": "松花粉成分具有亲脂性，与油脂类物质有较好的相容性。这使它特别适合用于乳霜和乳剂配方，能随乳霜基底渗透皮肤表层。与面膜相比，身体乳可以覆盖更大的皮肤面积，适合作为日常护理的一部分。",
+    "ingredientStory": "Bio Gold 的松花粉每年只在新西兰南岛两处原始产地采收一次。原料花粉经过破壁处理后，将生物活性成分释放出来，再融入乳霜基底，最大化皮肤吸收效果。每批产品在出厂前都经过生物活性检测。新西兰的土壤和气候，孕育出全球品质最优的松花粉之一。",
+    "usage": [
+      "沐浴或洗澡后，涂抹于洁净皮肤上。",
+      "以画圆方式轻轻按摩至吸收。",
+      "每日使用，效果最佳。",
+      "适合所有肤质。"
+    ],
+    "credibility": [
+      { "stat": "200+", "label": "每次使用含有的生物活性成分种类" },
+      { "stat": "新西兰", "label": "南岛原始森林产地" },
+      { "stat": "0", "label": "人工香精或防腐剂" },
+      { "stat": "奥塔哥", "label": "奥塔哥大学验证生物活性" }
+    ],
+    "claims": ["支持皮肤屏障健康", "富含天然生物活性成分", "全身日常滋养"]
+  },
+  "regulatory": {
+    "en": {
+      "chinaStatus": "Body creams and moisturisers are classified as ordinary cosmetics under NMPA. This is a lower-complexity registration category than functional cosmetics. No therapeutic claims permitted.",
+      "nmpaPath": "1. Register as ordinary cosmetic under NMPA cosmetic regulation (2021 Cosmetic Supervision and Administration Regulation). 2. Prepare product notification dossier including formula, safety assessment, and label review. 3. File via NMPA Cosmetic Product Registration and Notification Information Service Platform. 4. Timeline: 2-4 weeks for ordinary cosmetic notification. Fastest regulatory path in the Bio Gold range."
+    },
+    "zh": {
+      "chinaStatus": "身体乳及保湿产品在国家药监局管理体系下属于普通化妆品，注册难度低于特殊用途化妆品。不得附带任何治疗性声明。",
+      "nmpaPath": "1. 依据《化妆品监督管理条例》（2021年）以普通化妆品形式进行备案。2. 准备产品备案资料，包括配方、安全评估及标签内容。3. 通过国家药监局化妆品注册备案信息服务平台提交备案。4. 普通化妆品备案周期约2至4周，是Bio Gold产品系列中法规准入最快的品类。"
+    }
+  }
+}

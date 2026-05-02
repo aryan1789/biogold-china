@@ -1,0 +1,89 @@
+{
+  "slug": "pine-pollen-tablets",
+  "image": "/images/products/pine-pollen-tablets.jpg",
+  "category": "Supplement",
+  "en": {
+    "name": "Pine Pollen Tablets",
+    "tagline": "The full spectrum. A clean daily dose.",
+    "hero": {
+      "headline": "New Zealand Pine Pollen. Standardised. Daily.",
+      "subheadline": "All the bioactive power of Bio Gold pine pollen in a convenient tablet form. Standardised extract. Consistent dose. Easy to integrate into any routine."
+    },
+    "benefits": [
+      {
+        "title": "Natural Energy Support",
+        "description": "Amino acids and B vitamins in pine pollen support cellular energy production without stimulants."
+      },
+      {
+        "title": "Vitality and Drive",
+        "description": "Phytoandrogens in pine pollen support natural energy, drive, and overall vitality."
+      },
+      {
+        "title": "General Wellbeing",
+        "description": "A natural source of vitamins, minerals, and bioactive compounds that support general health and wellbeing."
+      },
+      {
+        "title": "Adaptogenic Properties",
+        "description": "Traditional Chinese medicine has used pine pollen for centuries as an adaptogen to support the body under stress."
+      }
+    ],
+    "mechanism": "Bio Gold pine pollen tablets use a cell-wall cracking process that breaks open each pollen grain, releasing the bioactive compounds that would otherwise pass through the digestive system intact. The result is a standardised extract with consistent levels of phytoandrogens, amino acids, vitamins, and minerals per tablet. University of Otago in vitro laboratory research has validated the bioactivity of these compounds — independent scientific backing no other pine pollen brand in the category can claim.",
+    "ingredientStory": "Pine pollen has been used in traditional Chinese medicine for over 2,000 years. Modern science is now validating what practitioners long understood. Bio Gold sources from New Zealand's Pinus massoniana trees at two South Island locations where the growing conditions produce pollen with exceptional bioactivity. One harvest per year. No compromise.",
+    "usage": [
+      "Take 2 tablets daily with water.",
+      "Best taken in the morning with or after food.",
+      "Allow 4-8 weeks of consistent use to assess full effect.",
+      "Store in a cool, dry place away from direct sunlight."
+    ],
+    "credibility": [
+      { "stat": "40%", "label": "Bioactivity observed in Otago in vitro research" },
+      { "stat": "2000+", "label": "Years of traditional use in Chinese medicine" },
+      { "stat": "100%", "label": "New Zealand pine pollen, no fillers" },
+      { "stat": "4 yrs", "label": "Government-funded R&D (AGMARDT, Callaghan, MPI)" }
+    ],
+    "claims": [
+      "Supports natural energy and vitality",
+      "Traditional adaptogenic herb",
+      "Standardised bioactive extract"
+    ]
+  },
+  "zh": {
+    "name": "松花粉片剂",
+    "tagline": "全谱提取。每日一剂，不将就。",
+    "hero": {
+      "headline": "新西兰松花粉，标准化提取，每日一剂",
+      "subheadline": "Bio Gold 松花粉片剂，将新西兰松花粉的全部生物活性成分浓缩在一颗片剂中。剂量稳定，方便融入日常。"
+    },
+    "benefits": [
+      { "title": "支持天然活力", "description": "松花粉中的氨基酸和 B 族维生素有助于细胞能量代谢，不靠刺激，靠的是营养支持。" },
+      { "title": "精力与驱动力", "description": "松花粉中的植物雄激素有助于支持天然活力、精力与驱动力。" },
+      { "title": "全面健康支持", "description": "松花粉富含天然维生素、矿物质和生物活性成分，有助于支持日常整体健康与活力。" },
+      { "title": "传统适应原功效", "description": "中医已将松花粉用于调理身体超过两千年，现代科研正在验证这一传统认知。" }
+    ],
+    "mechanism": "Bio Gold 松花粉片剂采用破壁工艺，将每粒花粉的细胞壁打开，释放出在肠道中原本无法吸收的生物活性成分。由此得到的标准化提取物，每颗片剂中植物雄激素、氨基酸、维生素和矿物质的含量都保持稳定。奥塔哥大学体外实验室研究验证了这些成分的生物活性——这是该品类中独一无二的独立科研背书。",
+    "ingredientStory": "松花粉在中医中有超过两千年的使用历史。现代科研正在验证古人的认知。Bio Gold 的松花粉来自新西兰南岛两处原产地的马尾松，当地的生长环境让花粉具有极高的生物活性。每年采收一次，不妥协。",
+    "usage": [
+      "每日服用 2 片，随水吞服。",
+      "建议早餐时或餐后服用，效果更佳。",
+      "坚持服用 4 至 8 周，评估整体效果。",
+      "存放于阴凉干燥处，避免阳光直射。"
+    ],
+    "credibility": [
+      { "stat": "40%", "label": "奥塔哥大学体外研究观测到的生物活性数据" },
+      { "stat": "2000+", "label": "年中医使用历史" },
+      { "stat": "100%", "label": "新西兰松花粉，无填充物" },
+      { "stat": "4年", "label": "政府资助研发（AGMARDT、Callaghan、MPI）" }
+    ],
+    "claims": ["支持天然活力与精力", "传统适应原草本", "标准化生物活性提取物"]
+  },
+  "regulatory": {
+    "en": {
+      "chinaStatus": "Pine pollen is classified as a traditional food ingredient in China with a long history of use. Tablet supplements require registration as health food (保健食品) under NMPA if health claims are made, or as ordinary food if positioned as a food supplement without claims.",
+      "nmpaPath": "1. Path A (Health Food Registration): Submit to NMPA with efficacy evidence, safety data, and formula details. Timeline: 12-24 months. Required for energy, immunity, or vitality claims. 2. Path B (Ordinary Food): No NMPA registration required. Must avoid all health claims. Can enter market via CBEC (cross-border e-commerce) on Tmall Global or JD Worldwide without Blue Hat registration. Fastest path to market."
+    },
+    "zh": {
+      "chinaStatus": "松花粉在中国被认定为具有悠久使用历史的传统食品原料。片剂补充剂若附带健康功效声明，须向国家药品监督管理局（NMPA）以保健食品形式注册；若定位为无功效声明的普通食品补充剂，则按普通食品管理。",
+      "nmpaPath": "路径A（保健食品注册）：向国家药监局提交有效性证据、安全数据及配方资料，审批周期约12至24个月，适用于标注能量或活力类功效声明的产品。路径B（普通食品）：无需国家药监局注册，不得附带任何健康声明，可通过跨境电商（CBEC）在天猫国际或京东全球购销售，无需蓝帽认证，是最快的市场准入路径。"
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "products": "Products",
+    "research": "Market Research",
+    "b2b": "Partner With Us",
+    "generate": "Product Generator",
+    "tagline": "New Zealand Pine Pollen",
+    "distributor_cta": "Become a Distributor"
+  },
+  "home": {
+    "hero": {
+      "badge": "From New Zealand Forests",
+      "headline": "TWO MINUTES UNDER THE TONGUE. STRAIGHT INTO THE BLOODSTREAM.",
+      "subheadline": "Pine pollen tincture from two South Island New Zealand forests. Bioactivity validated by University of Otago research. Trusted by 25,000+ New Zealand men.",
+      "cta_primary": "View Products",
+      "cta_secondary": "Become a Distributor",
+      "trust": [
+        { "value": "25,000+", "label": "NZ customers" },
+        { "value": "40%", "label": "Bioactivity support in Otago lab research*" },
+        { "value": "4 years", "label": "Govt-funded R&D" }
+      ]
+    },
+    "provenance": {
+      "headline": "From the forests New Zealand men trust.",
+      "body": "Bio Gold pine pollen is sourced from two South Island New Zealand locations. One harvest per year. Our hydroethanolic extract preserves over 200 bioactive compounds. Sublingual delivery bypasses gut absorption and gets the bioactives straight into the bloodstream.",
+      "stats": [
+        { "value": "40%", "label": "Bioactivity observed in University of Otago in vitro research" },
+        { "value": "4 yrs", "label": "Government-funded R&D before going to market" },
+        { "value": "25,000+", "label": "Customers across New Zealand" },
+        { "value": "2 min", "label": "Sublingual hold time for full absorption" }
+      ]
+    },
+    "mechanism": {
+      "label": "The Science",
+      "headline": "Most supplements never reach your cells.",
+      "subheadline": "Gut absorption destroys up to 90% of most supplements before they reach the bloodstream. Bio Gold uses sublingual delivery. Hold under the tongue for 2 minutes. The bioactives bypass the gut and enter the bloodstream directly.",
+      "footnote": "*Based on University of Otago in vitro laboratory research into pine pollen bioactivity. Results observed in cell cultures, not a clinical claim.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Harvested Once a Year",
+          "body": "Pine pollen is collected from two pristine South Island New Zealand locations during a narrow harvest window. One chance per year. No compromise."
+        },
+        {
+          "step": "02",
+          "title": "Hydroethanolic Extraction",
+          "body": "A water-alcohol extraction process pulls both water-soluble and fat-soluble bioactive compounds from the pollen grain. Over 200 compounds preserved."
+        },
+        {
+          "step": "03",
+          "title": "Sublingual Absorption",
+          "body": "Hold under the tongue for 2 minutes. Absorbed directly into the bloodstream via the sublingual mucosa. Bypasses the gut entirely. Maximum bioavailability."
+        }
+      ]
+    },
+    "products_section": {
+      "headline": "The Bio Gold Range",
+      "subheadline": "Three products. One source. The most bioactive pine pollen on the planet."
+    },
+    "provenance_section": {
+      "label": "New Zealand Provenance",
+      "headline": "One forest. One harvest. One product.",
+      "body": "Bio Gold pine pollen is harvested from two South Island New Zealand locations. The forests are clean, the process is traceable, and the harvest happens once a year during a narrow window. This isn't a commodity. It's a precision botanical.",
+      "stats": [
+        { "label": "Harvest locations", "value": "2 South Island sites" },
+        { "label": "Harvest window", "value": "Once per year" },
+        { "label": "Extraction method", "value": "Hydroethanolic" }
+      ]
+    },
+    "market_section": {
+      "label": "The China Opportunity",
+      "stats": [
+        { "value": "$800B+", "label": "Global supplement market by 2030" },
+        { "value": "#1", "label": "Chinese consumers trust imported NZ health products" },
+        { "value": "0", "label": "Premium NZ pine pollen brands in China today" }
+      ]
+    },
+    "research_section": {
+      "headline": "The China market opportunity",
+      "body": "We've looked at the Chinese pine pollen market in detail. The gaps are real and specific. Here's where Bio Gold fits.",
+      "cta": "Read the Analysis"
+    },
+    "b2b_section": {
+      "headline": "Distribute Bio Gold in China",
+      "body": "We're looking for aligned distribution partners. Put in your company details and get a personalised proposal within 90 seconds.",
+      "cta": "Generate Your Proposal"
+    },
+    "compliance": {
+      "label1": "Always read the label and follow the directions for use.",
+      "label2": "If symptoms persist, talk to your health professional."
+    }
+  },
+  "product": {
+    "benefits_heading": "Benefits",
+    "mechanism_heading": "How It Works",
+    "ingredient_heading": "The Ingredient Story",
+    "usage_heading": "How to Use",
+    "credibility_heading": "The Science",
+    "regulatory_heading": "China Market Entry",
+    "cta": "Enquire About This Product",
+    "bottom_cta_sub": "Generate a personalised distributor proposal in 90 seconds.",
+    "compliance": {
+      "label1": "Always read the label and follow the directions for use.",
+      "label2": "If symptoms persist, talk to your health professional."
+    }
+  },
+  "b2b": {
+    "headline": "Your Personalised Distributor Proposal",
+    "subheadline": "Tell us about your business. We'll put together a tailored proposal covering products, margins, regulatory path, and partnership structure.",
+    "form": {
+      "company_label": "Company Name or Website URL",
+      "company_placeholder": "e.g. Health Plus Co. or www.healthplus.cn",
+      "submit": "Generate My Proposal",
+      "loading": "Generating your proposal...",
+      "success": "Your proposal is ready.",
+      "download": "Download PDF"
+    },
+    "what_you_get": {
+      "heading": "What Your Proposal Includes",
+      "items": [
+        "Product range overview for your market",
+        "MOQ and margin structure",
+        "AI-generated packaging in your brand aesthetic",
+        "Regulatory pathway to China compliance",
+        "Partnership terms and next steps"
+      ]
+    }
+  },
+  "research": {
+    "headline": "China Pine Pollen Market: Analysis",
+    "subheadline": "A look at the current Chinese pine pollen market, the gaps in it, and the specific positions Bio Gold can own.",
+    "market_label": "The China Opportunity",
+    "market_stats": [
+      { "value": "$800B+", "label": "Global supplement market by 2030" },
+      { "value": "#1", "label": "Chinese consumers trust imported NZ health products" },
+      { "value": "0", "label": "Premium NZ pine pollen brands in China today" },
+      { "value": "CBEC", "label": "Fast-track entry. No Blue Hat registration needed." }
+    ],
+    "gaps_label": "Where Bio Gold wins",
+    "gaps_sub": "Five structural gaps in the Chinese pine pollen market. Each one is a position Bio Gold can own outright.",
+    "gaps": [
+      {
+        "number": "01",
+        "title": "Scientific Validation",
+        "body": "No Chinese pine pollen brand cites independent peer-reviewed research. Bio Gold holds University of Otago in vitro research validation — independent scientific backing no domestic brand can match or replicate.",
+        "advantage": "Bio Gold advantage: Uncontested"
+      },
+      {
+        "number": "02",
+        "title": "Delivery Mechanism",
+        "body": "Chinese competitor products rely on capsule formats — gut absorption only, with no bioavailability advantage. Bio Gold's sublingual liquid delivers directly into the bloodstream in 2 minutes, bypassing the gut entirely.",
+        "advantage": "Bio Gold advantage: Structural product superiority"
+      },
+      {
+        "number": "03",
+        "title": "NZ Provenance",
+        "body": "Chinese consumers consistently rank imported supplements above domestic alternatives. New Zealand benefits from a clean, scientifically credible country image. No other NZ pine pollen brand is in the market.",
+        "advantage": "Bio Gold advantage: First mover"
+      },
+      {
+        "number": "04",
+        "title": "Premium Brand Identity",
+        "body": "The category currently has no premium visual identity. Packaging is functional at best. Bio Gold's design language, gold, charcoal, Outfit Bold, stands out immediately at point of consideration.",
+        "advantage": "Bio Gold advantage: Design differentiation"
+      },
+      {
+        "number": "05",
+        "title": "Bioavailability Story",
+        "body": "No competitor addresses bioavailability explicitly. Bio Gold's hydroethanolic extraction plus sublingual delivery is a complete, defensible science story. Chinese consumers are increasingly sophisticated and ready to engage with it.",
+        "advantage": "Bio Gold advantage: Education opportunity"
+      }
+    ],
+    "angles_label": "How Bio Gold should be positioned",
+    "angles": [
+      {
+        "angle": "\"What the forest knew first.\"",
+        "body": "Bridge traditional and modern. Pine pollen has been used in Chinese medicine for over 2,000 years. Bio Gold is the science-validated version. That story lands with Chinese consumers who trust both tradition and research."
+      },
+      {
+        "angle": "\"The pine pollen that doesn't wait for digestion.\"",
+        "body": "Lead with mechanism. Sublingual delivery is a genuinely superior bioavailability story. Simple, specific, defensible. No Chinese competitor can claim this without reformulating."
+      },
+      {
+        "angle": "\"Harvested once. From one place. By one company.\"",
+        "body": "Scarcity and provenance. One harvest window per year, two South Island locations. The opposite of commodity. Positions Bio Gold as a precision botanical, not a supplement."
+      },
+      {
+        "angle": "\"What traditional Chinese medicine has known for centuries, now harvested in New Zealand.\"",
+        "body": "Let the respect flow the right way. Pine pollen has 2,000 years in Chinese medicine. Bio Gold isn't redefining it — it's the highest-quality, science-validated version of something China already trusts, grown in New Zealand's clean South Island forests."
+      }
+    ],
+    "distribution_label": "Recommended distribution path",
+    "distribution_sub": "Bio Gold can enter China via CBEC (cross-border e-commerce) immediately. No NMPA registration required for the initial phase.",
+    "distribution": [
+      {
+        "platform": "Tmall Global",
+        "type": "Primary DTC",
+        "note": "Highest trust with Chinese health supplement consumers. No Blue Hat registration required via CBEC."
+      },
+      {
+        "platform": "JD Worldwide",
+        "type": "Secondary channel",
+        "note": "Strong for premium and scientific positioning. Tech-forward consumer base."
+      },
+      {
+        "platform": "Xiaohongshu",
+        "type": "Awareness",
+        "note": "Health, beauty, and wellness credibility. Strong for organic discovery and KOL seeding."
+      },
+      {
+        "platform": "Douyin",
+        "type": "Reach",
+        "note": "Content-driven. Product demonstration format suits the sublingual mechanism story well."
+      }
+    ],
+    "bottom_cta_headline": "Ready to enter the Chinese market?",
+    "bottom_cta_body": "Generate a personalised distributor proposal in 90 seconds. Includes MOQ, margin structure, and your NMPA pathway.",
+    "bottom_cta": "Generate a Distributor Proposal"
+  },
+  "generate": {
+    "headline": "Product Page Generator",
+    "subheadline": "Enter a product name and two or three benefit claims. Bio Gold's system generates a full bilingual product page in seconds.",
+    "form": {
+      "name_label": "Product Name",
+      "name_placeholder": "e.g. Pine Pollen Eye Cream",
+      "claims_label": "Key Benefit Claims (one per line, 2-3 max)",
+      "claims_placeholder": "e.g. Reduces fine lines\nFirms and brightens\nDeep hydration",
+      "submit": "Generate Product Page",
+      "loading": "Generating..."
+    }
+  },
+  "regulatory": {
+    "china_status_label": "China Market Status",
+    "nmpa_label": "NMPA Compliance Path",
+    "snapshot_heading": "Entry Overview"
+  },
+  "b2b_label": "Distributor Partnership",
+  "generate_label": "Product Generator",
+  "footer": {
+    "entity": "Pine Pollen New Zealand Limited",
+    "tagline": "From New Zealand forests to the world.",
+    "compliance1": "Always read the label and follow the directions for use.",
+    "compliance2": "If symptoms persist, talk to your health professional.",
+    "products_heading": "Products",
+    "company_heading": "Company",
+    "products": [
+      { "slug": "pine-pollen-face-mask", "label": "Pine Pollen Face Mask" },
+      { "slug": "pine-pollen-tablets", "label": "Pine Pollen Tablets" },
+      { "slug": "body-cream", "label": "Pine Pollen Body Cream" }
+    ]
+  }
+}
