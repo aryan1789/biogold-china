@@ -91,10 +91,10 @@ export default function ProductGenerator({ dict, locale }: { dict: GenerateDict;
 
   const content = generated ? (locale === 'zh' && generated.zh ? generated.zh : generated.en) : null
 
-  const statusLabel = {
+  const statusLabel = ({
     'generating-copy': locale === 'zh' ? '正在生成产品文案……' : 'Generating product copy...',
     'generating-image': locale === 'zh' ? '正在生成产品图片……' : 'Generating product image...',
-  }[status] ?? dict.form.loading
+  } as Record<string, string>)[status] ?? dict.form.loading
 
   return (
     <div className="space-y-8">
