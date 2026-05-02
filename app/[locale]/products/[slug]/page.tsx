@@ -46,8 +46,8 @@ export default async function ProductPage({ params }: { params: Promise<{ locale
               <p className="text-[#D9A91B] text-xl font-semibold italic mb-6">{content.tagline}</p>
               <p className="text-white/60 text-lg leading-relaxed mb-8 max-w-md">{content.hero.subheadline}</p>
               <div className="flex flex-col gap-1">
-                <p className="text-white/30 text-xs">{dict.product.compliance.label1}</p>
-                <p className="text-white/30 text-xs">{dict.product.compliance.label2}</p>
+                <p className="text-white/60 text-xs">{dict.product.compliance.label1}</p>
+                <p className="text-white/60 text-xs">{dict.product.compliance.label2}</p>
               </div>
             </div>
 
@@ -172,8 +172,8 @@ export default async function ProductPage({ params }: { params: Promise<{ locale
             {d.home.b2b_section.cta} →
           </Link>
           <div className="mt-8 space-y-2">
-            <p className="text-white/20 text-xs">{dict.product.compliance.label1}</p>
-            <p className="text-white/20 text-xs">{dict.product.compliance.label2}</p>
+            <p className="text-white/60 text-xs">{dict.product.compliance.label1}</p>
+            <p className="text-white/60 text-xs">{dict.product.compliance.label2}</p>
           </div>
         </div>
       </section>

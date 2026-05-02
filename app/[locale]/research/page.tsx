@@ -128,8 +128,8 @@ export default async function ResearchPage({ params }: { params: Promise<{ local
             {d.research.bottom_cta} →
           </Link>
           <div className="mt-8 space-y-1">
-            <p className="text-xs text-[#5A5856]/50">{d.home.compliance.label1}</p>
-            <p className="text-xs text-[#5A5856]/50">{d.home.compliance.label2}</p>
+            <p className="text-xs text-[#5A5856]/80">{d.home.compliance.label1}</p>
+            <p className="text-xs text-[#5A5856]/80">{d.home.compliance.label2}</p>
           </div>
         </div>
       </section>

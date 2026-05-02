@@ -193,8 +193,8 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               {d.home.b2b_section.cta} →
             </Link>
             <div className="mt-8 space-y-1">
-              <p className="text-xs text-[#2F2E2D]/50">{d.home.compliance.label1}</p>
-              <p className="text-xs text-[#2F2E2D]/50">{d.home.compliance.label2}</p>
+              <p className="text-xs text-[#2F2E2D]/75">{d.home.compliance.label1}</p>
+              <p className="text-xs text-[#2F2E2D]/75">{d.home.compliance.label2}</p>
             </div>
           </div>
         </div>
