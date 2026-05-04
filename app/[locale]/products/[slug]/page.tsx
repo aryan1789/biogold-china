@@ -1,6 +1,5 @@
 import { notFound } from 'next/navigation'
 import Image from 'next/image'
-import Link from 'next/link'
 import { getDictionary, hasLocale, type Locale } from '@/lib/dictionaries'
 import { getProduct, getAllProducts, getLocalizedContent, getLocalizedRegulatory } from '@/lib/products'
 import RegulatoryCard from '@/app/components/RegulatoryCard'
@@ -153,24 +152,6 @@ export default async function ProductPage({ params }: { params: Promise<{ locale
             nmpaPath={regulatory.nmpaPath}
             labels={dict.regulatory}
           />
-        </div>
-      </section>
-
-      {/* ── DISTRIBUTOR CTA ── */}
-      <section className="bg-[#2F2E2D] py-20 text-center">
-        <div className="max-w-xl mx-auto px-6">
-          <h3 className="display-sm text-white mb-4">{d.home.b2b_section.headline}</h3>
-          <p className="text-white/50 mb-8 text-sm leading-relaxed">{d.home.b2b_section.body}</p>
-          <Link
-            href={`/${locale}/b2b`}
-            className="inline-block bg-[#D9A91B] text-[#2F2E2D] font-bold text-sm uppercase tracking-wider px-10 py-4 rounded-full hover:bg-[#F0C84A] transition-colors duration-200"
-          >
-            {d.home.b2b_section.cta} →
-          </Link>
-          <div className="mt-8 pt-6 border-t border-white/15 space-y-1">
-            <p className="text-white text-xs font-medium">{dict.product.compliance.label1}</p>
-            <p className="text-white text-xs font-medium">{dict.product.compliance.label2}</p>
-          </div>
         </div>
       </section>
 
